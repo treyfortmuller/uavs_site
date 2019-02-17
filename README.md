@@ -1,5 +1,7 @@
 # UAVs@Berkeley's Website
 
+This is my personal copy of the UAVs site, separate from the official repository which is hosted on UC Berkeley's servers: https://treyfortmuller.github.io/uavs_site/
+
 The original UAVs@Berkeley website was a WordPress site which was hard to maintain and looked bad. This site employs [Jekyll](https://jekyllrb.com/), a ruby-based static site generator. Most files are written in markdown with HTML interspersed, Jekyll adds syntactical sugar and extra functionality, then compiles the project into vanilla HTML and CSS which is then hosted on the Berkeley [OCF](https://www.ocf.berkeley.edu/) servers [here](uav.berkeley.edu).
 
 This site should be updated at least once per semester to update:
